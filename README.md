@@ -1,5 +1,6 @@
 Hello, I'm Joseph
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn_Profile-Connect-green)](https://www.linkedin.com/in/your-profile-url/)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn_Profile-Connect-blue)](https://www.linkedin.com/in/your-profile-url/)
 
 [Brief Introduction - Remove this afterwards]
 
