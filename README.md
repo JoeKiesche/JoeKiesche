@@ -1,6 +1,7 @@
 Hello, I'm Joseph
 
-<a href = "https://www.linkedin.com/in/josephkiesche/" > < img src=" https://img.shields.io/linkedin/v/linkedin.svg?logo=linkedin"/> </a>
+[![Static Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-profile-url/](https://www.linkedin.com/in/josephkiesche/))
+
 
 [Brief Introduction - Remove this afterwards]
 
