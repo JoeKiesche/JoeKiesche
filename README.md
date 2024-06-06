@@ -3,12 +3,12 @@ Hello, I'm Joseph
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/josephkiesche/)
 
 
-[Brief Introduction - Remove this afterwards]
+I am a Recent Graduate with a Bachelors Degree in Computer Science. I have a profoud intrest in technology and solve to solve complex problems.
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 Objective
-[Provide Objective - Remove this afterwards]]
+My jouney in Computer Science has lead me to have intrests in cybersecutity as well as software devlopment. I am Eager to join the field of technology specifically, a role in cybersecurity. 
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
