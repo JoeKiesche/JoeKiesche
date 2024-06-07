@@ -12,11 +12,11 @@ My jouney in Computer Science has lead me to have intrests in cybersecutity as w
 
 ## Relevant Projects
 
-| Project Name | Description |
-|--------------|-------------|
-| Project A    | Description of Project A |
-| Project B    | Description of Project B |
-| Project C    | Description of Project C |
+| Project Name              | Description |
+|--------------             |-------------|
+| OSINT using spiderfoot    | Reconnaissance on a target using SpiderFoot <a href="https://github.com/JoeKiesche/OSINT-Using-Spiderfoot"/>Here </a>|
+| -                         | -   |
+| -                         | - |
 
 
   
