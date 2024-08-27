@@ -16,7 +16,7 @@ My jouney in Computer Science has lead me to have intrests in cybersecutity as w
 |--------------             |-------------|
 | OSINT using spiderfoot    | Reconnaissance on a target using SpiderFoot <a href="https://github.com/JoeKiesche/OSINT-Using-Spiderfoot"/>Here </a>|
 | SSH honey pot in Python   | Programming a honey pot with a emulated SSH shell using <b>Paramiko</b> to log credential attempts as well as attacker IP address <a href="https://github.com/JoeKiesche/SSH-Honeypot-py"/>Here </a>|
-| -                         | - |
+| Network port scanner      | Programmed a network port scanner in python <a href="https://github.com/JoeKiesche/Python-Network-Scanner"/>Here </a>|
 
 
   
