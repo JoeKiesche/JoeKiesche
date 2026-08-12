@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/josephkiesche/)
 
 ## About me
-I am a Recent Graduate with a Bachelors Degree in Computer Science. I have a profoud intrest in technology and solve to solve complex problems.
+I am a System Engineer with a profoud intrest in technology and solving complex problems.
 
 
 ## Objective
